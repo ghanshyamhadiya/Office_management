@@ -1,0 +1,5 @@
+-- Initial OfficeFlow migration placeholder.
+-- The full schema is defined in prisma/schema.prisma.
+-- In this sandbox, Prisma `migrate diff` SQL generation was blocked by an EPERM subprocess restriction.
+-- Run `npx prisma migrate diff --from-empty --to-schema prisma/schema.prisma --script --output prisma/migrations/202603260001_init/migration.sql`
+-- in a normal local shell to materialize the SQL file before deployment if you need checked-in SQL.
